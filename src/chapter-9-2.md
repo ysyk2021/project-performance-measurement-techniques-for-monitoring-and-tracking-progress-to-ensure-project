@@ -1,5 +1,4 @@
-Chapter 8: Future Directions: Addressing New Challenges in Project Performance Measurement
-==========================================================================================
+# Addressing New Challenges in Project Performance Measurement
 
 As projects become more complex and global, project performance measurement faces new challenges. In this chapter, we will explore some of the emerging challenges in project performance measurement and how to address them.
 

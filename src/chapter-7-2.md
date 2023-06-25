@@ -1,5 +1,4 @@
-Chapter 6: Performance Reporting: Tailoring Reporting to Different Stakeholders
-===============================================================================
+# Tailoring Reporting to Different Stakeholders
 
 Performance reporting is a critical aspect of project performance measurement. However, the information needs and preferences of stakeholders can vary widely. To ensure that performance reports are effective, project managers must tailor them to different stakeholders.
 

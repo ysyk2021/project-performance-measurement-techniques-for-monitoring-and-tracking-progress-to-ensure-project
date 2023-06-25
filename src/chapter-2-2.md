@@ -1,5 +1,4 @@
-Chapter 1: Defining Project Performance Measurement: The Benefits of Effective Project Performance Measurement
-==============================================================================================================
+# The Benefits of Effective Project Performance Measurement
 
 Effective project performance measurement provides several benefits, including:
 

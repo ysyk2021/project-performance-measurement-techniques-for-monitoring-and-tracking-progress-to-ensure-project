@@ -1,5 +1,4 @@
-Chapter 4: Earned Value Management: Calculating EVM Metrics
-===========================================================
+# Calculating EVM Metrics
 
 Earned Value Management (EVM) is a widely-used technique for monitoring and tracking project performance. It involves using metrics to measure project progress against planned targets, enabling project managers to identify potential issues and take corrective actions proactively.
 

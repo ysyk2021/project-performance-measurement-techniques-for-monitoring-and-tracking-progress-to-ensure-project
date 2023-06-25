@@ -1,5 +1,4 @@
-Chapter 2: Key Performance Indicators: Measuring KPIs to Evaluate Project Performance
-=====================================================================================
+# Measuring KPIs to Evaluate Project Performance
 
 Key Performance Indicators (KPIs) are essential metrics that help project managers measure and track project performance. KPIs provide project managers with the ability to evaluate whether the project is on track towards achieving its objectives and make data-driven decisions to improve project performance. In this chapter, we will explore KPIs in detail, including how to select KPIs and measure them to evaluate project performance.
 

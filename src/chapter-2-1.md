@@ -1,5 +1,4 @@
-Chapter 1: Defining Project Performance Measurement: What is Project Performance Measurement?
-=============================================================================================
+# What is Project Performance Measurement?
 
 Project performance measurement is the process of monitoring and tracking project progress against established baselines and targets. It involves collecting data on various aspects of the project, such as cost, schedule, quality, scope, and risk, to evaluate whether the project is on track towards achieving its objectives.
 

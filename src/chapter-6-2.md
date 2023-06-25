@@ -1,5 +1,4 @@
-Chapter 5: Agile Metrics: Choosing Appropriate Agile Metrics for Different Projects
-===================================================================================
+# Choosing Appropriate Agile Metrics for Different Projects
 
 Agile metrics are essential for monitoring and tracking progress in agile projects. However, choosing the appropriate agile metrics can be challenging as different projects have different requirements and objectives.
 

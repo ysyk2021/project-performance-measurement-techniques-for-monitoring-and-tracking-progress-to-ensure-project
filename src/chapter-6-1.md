@@ -1,5 +1,4 @@
-Chapter 5: Agile Metrics: Applying Agile Metrics to Project Performance Measurement
-===================================================================================
+# Applying Agile Metrics to Project Performance Measurement
 
 Agile methodologies have become increasingly popular in project management due to their adaptability, collaboration, and continuous improvement. Agile metrics are designed to measure progress and performance in an agile project environment.
 

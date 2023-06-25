@@ -1,5 +1,4 @@
-Chapter 7: Corrective Action: Evaluating the Effectiveness of Corrective Actions
-================================================================================
+# Evaluating the Effectiveness of Corrective Actions
 
 Corrective actions are essential for addressing issues and improving project performance. However, it is critical to evaluate the effectiveness of corrective actions to ensure that they have the desired impact on project performance.
 

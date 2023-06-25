@@ -1,5 +1,4 @@
-Chapter 7: Corrective Action: Identifying Performance Issues and Risks
-======================================================================
+# Identifying Performance Issues and Risks
 
 Corrective action is an essential aspect of project performance measurement. It involves identifying and addressing issues and risks that may arise during a project, to ensure that the project stays on track towards achieving its objectives.
 

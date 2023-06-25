@@ -1,5 +1,4 @@
-Chapter 4: Earned Value Management: Understanding Earned Value Management (EVM)
-===============================================================================
+# Understanding Earned Value Management (EVM)
 
 Earned Value Management (EVM) is a technique for monitoring and tracking project performance. It involves using metrics to measure project progress against planned targets, enabling project managers to identify potential issues and take corrective actions proactively.
 

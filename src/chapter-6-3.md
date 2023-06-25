@@ -1,5 +1,4 @@
-Chapter 5: Agile Metrics: Interpreting Agile Metrics for Continuous Improvement
-===============================================================================
+# Interpreting Agile Metrics for Continuous Improvement
 
 Agile methodologies have become increasingly popular in recent years, with many organizations adopting agile approaches to project management. However, measuring and monitoring project performance in an agile environment can be challenging.
 

@@ -1,5 +1,4 @@
-Chapter 3: Project Management Software: Features and capabilities of project management software
-================================================================================================
+# Features and capabilities of project management software
 
 Project management software is a critical tool for monitoring and tracking project progress to ensure project success. In this chapter, we will explore the features and capabilities of project management software.
 

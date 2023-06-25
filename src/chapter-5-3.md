@@ -1,5 +1,4 @@
-Chapter 4: Earned Value Management: Analyzing EVM Metrics for Project Performance Evaluation
-============================================================================================
+# Analyzing EVM Metrics for Project Performance Evaluation
 
 Earned Value Management (EVM) is a powerful technique for monitoring and tracking project progress. By measuring project performance against established baselines, EVM enables project managers to evaluate project performance and forecast future performance.
 

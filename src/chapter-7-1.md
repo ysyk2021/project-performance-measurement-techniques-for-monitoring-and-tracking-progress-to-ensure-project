@@ -1,5 +1,4 @@
-Chapter 6: Performance Reporting: Communicating Project Performance through Reports
-===================================================================================
+# Communicating Project Performance through Reports
 
 Performance reporting is a critical aspect of project performance measurement. Reports provide valuable information on project progress and performance, enabling stakeholders to make informed decisions and take corrective actions proactively.
 

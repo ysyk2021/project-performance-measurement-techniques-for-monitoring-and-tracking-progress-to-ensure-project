@@ -1,5 +1,4 @@
-Chapter 2: Key Performance Indicators: Identifying Relevant Key Performance Indicators (KPIs)
-=============================================================================================
+# Identifying Relevant Key Performance Indicators (KPIs)
 
 Identifying relevant Key Performance Indicators (KPIs) is crucial for measuring and tracking project performance effectively. KPIs help project managers evaluate whether the project is on track towards achieving its objectives and make data-driven decisions to improve project outcomes. In this chapter, we will explore techniques for identifying relevant KPIs and selecting KPIs that align with project objectives.
 

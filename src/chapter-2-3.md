@@ -1,5 +1,4 @@
-Chapter 1: Defining Project Performance Measurement: Examples of Project Performance Measurement in Practice
-============================================================================================================
+# Examples of Project Performance Measurement in Practice
 
 Project performance measurement is critical for evaluating project performance effectively. Performance measurement enables project managers to identify issues early and take corrective actions proactively. In this chapter, we will define project performance measurement and explore examples of project performance measurement in practice.
 
