@@ -1,4 +1,4 @@
-Conclusion: Summary of Key Points
+Summary of Key Points
 =================================
 
 In this book, we explored various techniques for monitoring and tracking project progress to ensure project success. We discussed the importance of performance measurement and how it helps project managers make data-driven decisions to improve project outcomes. The following are some key points from each chapter:
