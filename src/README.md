@@ -8,5 +8,4 @@ This book is not a one-size-fits-all solution. Each project is unique, and the p
 
 Whether you're a seasoned project manager or new to the field, Project Performance Measurement: Techniques for Monitoring and Tracking Progress to Ensure Project Success is here to guide you on your journey towards project success. Let's get started!
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
