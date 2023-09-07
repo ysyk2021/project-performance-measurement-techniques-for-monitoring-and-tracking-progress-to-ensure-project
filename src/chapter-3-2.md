@@ -1,4 +1,3 @@
-# Setting Targets for KPIs
 
 Setting targets for Key Performance Indicators (KPIs) is crucial for measuring and tracking project performance effectively. KPI targets provide project managers with a clear understanding of what success looks like and enable them to take corrective actions proactively if KPIs fall outside the acceptable range. In this chapter, we will explore techniques for setting targets for KPIs.
 

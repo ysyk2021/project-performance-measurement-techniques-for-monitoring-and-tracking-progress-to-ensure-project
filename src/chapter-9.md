@@ -1,5 +1,3 @@
-Chapter 8: Future Directions
-============================
 
 Project performance measurement is an ever-evolving field that requires continuous improvement and adaptation to new challenges and technologies. In this chapter, we will explore some of the future directions of project performance measurement.
 

@@ -1,5 +1,3 @@
-Chapter 7: Corrective Action
-============================
 
 Corrective action is a critical component of project performance measurement. It involves identifying performance issues and risks, implementing corrective action plans, and evaluating the effectiveness of corrective actions. In this chapter, we will explore techniques for corrective action implementation.
 

@@ -1,5 +1,3 @@
-Chapter 5: Agile Metrics
-========================
 
 Agile methodologies are becoming increasingly popular in project management, and with good reason. Agile approaches emphasize adaptability, collaboration, and continuous improvement, enabling project teams to respond quickly to changing requirements and deliver value to stakeholders.
 

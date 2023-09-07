@@ -1,5 +1,3 @@
-Chapter 1: Defining Project Performance Measurement
-===================================================
 
 Project performance measurement is critical for evaluating project performance effectively. Performance measurement enables project managers to identify issues early and take corrective actions proactively. In this chapter, we will define project performance measurement, explore the benefits of effective project performance measurement, and provide examples of project performance measurement in practice.
 
@@ -42,5 +40,4 @@ Conclusion
 ----------
 
 Project performance measurement is critical for evaluating project performance effectively. By measuring and tracking project progress against established baselines and targets, project managers can identify issues early and take corrective actions proactively. Effective project performance measurement provides several benefits, including early issue identification, improved decision making, better resource allocation, increased stakeholder satisfaction, and continuous improvement. The examples of project performance measurement in practice include cost performance, schedule performance, quality performance, scope performance, and risk performance.
-
 

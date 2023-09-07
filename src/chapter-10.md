@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 In this book, we have explored various techniques for monitoring and tracking project progress to ensure project success. From traditional approaches such as Earned Value Management (EVM) to newer methods like Agile Metrics, project performance measurement is critical in ensuring that projects deliver value to stakeholders.
 

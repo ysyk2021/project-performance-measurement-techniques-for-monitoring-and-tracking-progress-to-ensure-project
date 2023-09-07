@@ -1,4 +1,3 @@
-# Implementing Corrective Action Plans
 
 Corrective action is an essential aspect of project performance measurement. It involves identifying and addressing issues that may arise during a project, to ensure that the project stays on track towards achieving its objectives.
 

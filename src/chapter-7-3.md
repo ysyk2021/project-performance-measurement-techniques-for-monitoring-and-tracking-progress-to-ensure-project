@@ -1,4 +1,3 @@
-# Tips for Creating Effective Performance Reports
 
 Performance reporting is a critical aspect of project performance measurement that enables project managers to communicate project progress effectively. Effective performance reports provide stakeholders with the information they need to understand project progress towards achieving the desired outcomes. In this chapter, we will explore tips for creating effective performance reports.
 

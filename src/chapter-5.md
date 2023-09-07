@@ -1,5 +1,3 @@
-Chapter 4: Earned Value Management
-==================================
 
 Earned Value Management (EVM) is a project management technique used to measure and track project progress based on cost, schedule, and scope. EVM helps project managers determine whether the project is on track to achieve its objectives by comparing actual costs and schedule performance against planned costs and schedule performance. In this chapter, we will explore EVM in detail, including how to calculate EVM metrics and analyze EVM metrics for project performance evaluation.
 

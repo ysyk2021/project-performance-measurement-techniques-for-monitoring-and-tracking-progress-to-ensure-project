@@ -1,5 +1,3 @@
-Overview of Project Performance Measurement
-=========================================================
 
 Project performance measurement is critical for ensuring project success. By monitoring and tracking project progress against established baselines and targets, project managers can identify issues early, make data-driven decisions, ensure that the project stays on track towards achieving its objectives, improve project outcomes, and communicate effectively with stakeholders.
 

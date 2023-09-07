@@ -1,5 +1,3 @@
-Purpose of the Book
-=================================
 
 The purpose of this book is to provide project managers with techniques for monitoring and tracking project progress effectively. By measuring and evaluating project performance against established baselines and targets, project managers can identify issues early, make data-driven decisions, ensure that the project stays on track towards achieving its objectives, improve project outcomes, and communicate effectively with stakeholders.
 
