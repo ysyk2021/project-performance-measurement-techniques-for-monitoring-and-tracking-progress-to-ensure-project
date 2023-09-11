@@ -1,5 +1,4 @@
-Chapter 6: Interpreting Agile Metrics for Continuous Improvement
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Agile project management methodologies emphasize the importance of continuous improvement in order to enhance project performance and ensure success. Agile metrics play a crucial role in providing insights into project progress and identifying areas for improvement. However, interpreting these metrics correctly is essential to effectively drive continuous improvement efforts. This chapter explores techniques and best practices for interpreting agile metrics, enabling teams to make informed decisions and drive continuous improvement initiatives.
 

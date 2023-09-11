@@ -1,5 +1,4 @@
-Chapter 3: Analyzing EVM Metrics for Project Performance Evaluation
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Earned Value Management (EVM) is a widely used technique for monitoring and evaluating project performance. It provides valuable insights into project progress, cost efficiency, and schedule adherence. In this chapter, we will explore the concept of EVM and discuss how to effectively analyze EVM metrics for project performance evaluation.
 

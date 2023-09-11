@@ -1,5 +1,4 @@
-Chapter 6: Applying Agile Metrics to Project Performance Measurement
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Agile project management methodologies offer a range of metrics that can effectively measure and track project performance. These metrics provide valuable insights into various aspects of project execution, enabling teams to make data-driven decisions and ensure project success. This chapter explores the application of agile metrics in project performance measurement, discussing their significance, implementation, and benefits.
 

@@ -1,5 +1,4 @@
-Chapter 7: Addressing New Challenges in Project Performance Measurement
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the new challenges that project managers face in measuring project performance and tracking progress. As project management practices evolve and projects become more complex, traditional performance measurement techniques may not be sufficient to address these challenges. We will explore some key challenges and present strategies to overcome them.
 

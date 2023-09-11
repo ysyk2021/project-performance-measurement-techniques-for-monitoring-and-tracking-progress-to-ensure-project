@@ -1,5 +1,4 @@
-Chapter 4: Calculating EVM Metrics
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of calculating Earned Value Management (EVM) metrics. These metrics are crucial for monitoring and tracking project progress to ensure project success. By accurately calculating EVM metrics, project managers can gain valuable insights into cost performance, schedule adherence, and project efficiency.
 

@@ -1,5 +1,4 @@
-Chapter 8: Identifying Performance Issues and Risks
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of identifying performance issues and risks in project management. Timely identification of these issues is crucial for taking proactive measures to mitigate risks, resolve problems, and ensure project success. We will discuss various techniques and strategies to identify performance issues and risks throughout the project lifecycle.
 

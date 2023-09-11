@@ -1,5 +1,4 @@
-Chapter 5: Tailoring Reporting to Different Stakeholders
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of tailoring project performance reporting to different stakeholders. Effective communication and reporting play a vital role in monitoring and tracking progress to ensure project success. By customizing reports to meet the specific needs of various stakeholders, project managers can enhance understanding, engagement, and decision-making.
 

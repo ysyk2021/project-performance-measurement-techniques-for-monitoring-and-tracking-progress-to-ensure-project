@@ -1,5 +1,4 @@
-Chapter 6: Choosing Appropriate Agile Metrics for Different Projects
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Agile project management methodologies have become increasingly popular due to their flexibility, adaptability, and focus on delivering customer value. In order to effectively monitor and track progress in agile projects, it is essential to choose appropriate metrics that align with the project's goals and objectives. This chapter explores various factors to consider when selecting agile metrics and provides guidance on choosing the most suitable metrics for different types of projects.
 
